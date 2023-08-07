@@ -1,0 +1,25 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../Ecommerce"
+	},
+	{
+		"path": "../Project"
+	},
+	{
+		"path": "../Thank you"
+	},
+	{
+		"path": "../photography"
+	},
+	{
+		"path": "../Group6 Project"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Group6 Project"
+  }
+}
